@@ -1,4 +1,4 @@
-[![profile]([https://raw.githubusercontent.com/huseyinsertac/huseyinsertac/refs/heads/main/profile2.png]https://github.com/huseyinsertac/huseyinsertac)
+![profile]([https://raw.githubusercontent.com/huseyinsertac/huseyinsertac/refs/heads/main/profile2.png]https://github.com/huseyinsertac/huseyinsertac)
 <!--
 **huseyinsertac/huseyinsertac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
